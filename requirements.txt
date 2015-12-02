@@ -1,0 +1,5 @@
+arrow==0.7.0
+matplotlib==1.4.3
+numpy==1.9.3
+Pillow==2.9.0
+scipy==0.16.1
